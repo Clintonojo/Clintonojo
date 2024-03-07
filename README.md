@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Clintonojo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clintonojo&show_icons=true&theme=tokyonight)<br/><br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
