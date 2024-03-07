@@ -1,18 +1,19 @@
-### Hi there 👋
+
+👋 Hi, I'm Clinton Ojo
+👩🏻‍💻 Software Engineer/Data anayltics sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied [Computer Science] National college of Ireland<br/>
+🎨 Making videos about Computer Science, tech,Chess and more on Youtube soon<br/>
+💭 Currently learning about Python and soon will be focusing more front end and mysql!<br/>
 
 <!--
 **Clintonojo/Clintonojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-# 👋 Hi, I'm Clinton Ojo
-👩🏻‍💻 Software Engineer/Data anayltics sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] National college of Ireland<br/>
-🎨 Making videos about Computer Science, tech,Chess and more on Youtube soon<br/>
-💭 Currently learning about Python and soon will be focusing more front end and mysql!<br/>
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Clintonojo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
