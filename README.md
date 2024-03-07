@@ -1,9 +1,20 @@
 
-👋 Hi, I'm Clinton Ojo
-👩🏻‍💻 Software Engineer/Data anayltics sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] National college of Ireland<br/>
-🎨 Making videos about Computer Science, tech,Chess and more on Youtube soon<br/>
-💭 Currently learning about Python and soon will be focusing more front end and mysql!<br/>
+👋 Hey there, I'm Clinton Ojo!
+
+👩🏻‍💻 As a Software Engineer/Data Analytics enthusiast, I'm here to share my journey and insights in the dynamic world of tech.
+
+👩🏻‍🎓 I'm a student of [Computer Science] at the National College of Ireland, where I'm delving deep into the core principles of computing.
+
+🎨 Exciting things are brewing as I gear up to launch captivating videos on YouTube covering a myriad of topics including Computer Science, tech, Chess, and more.
+
+💭 Currently immersing myself in Python and gearing up to explore the realms of front-end development and MySQL!
+
+⚡ Fun fact: I'm not just a tech enthusiast, but also an avid chess player, leveraging strategic thinking both on and off the board!
+
+🔭 Currently, I'm enhancing my Python skills through personal projects and tutorials, pushing the boundaries of what's possible in the world of coding.
+
+😄 Pronouns: He/Him
+
 
 <!--
 **Clintonojo/Clintonojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
