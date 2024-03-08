@@ -15,6 +15,7 @@
 
 😄 Pronouns: He/Him
 
+Currently working on my Clinton Learning python and Looksmaxxing ranking
 
 <!--
 **Clintonojo/Clintonojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
